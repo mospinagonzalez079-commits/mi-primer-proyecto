@@ -9,4 +9,5 @@ Primer repositorio del taller de GitHub — Colegio Santa María
 <h1> hola, soy maria angelica<h1></h1>
 <p> estudiante de programacion de software.</p>
 </h1>body>este es mi primer repositorio del taller de github</body>
+<h1> aprendi a hacer pull</h1>
 </html>
